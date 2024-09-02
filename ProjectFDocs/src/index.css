@@ -2,3 +2,10 @@
 @tailwind components;
 @tailwind utilities;
 
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* div, body, header, footer {
+    border: 1px solid red;
+} */
